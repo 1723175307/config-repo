@@ -22,7 +22,7 @@ env: test
 
 girl:
   name: lili
-  age: 19
+  age: 20
 
     # 可根据自己的需要修改轮询策略
     # product-service: # 服务名
