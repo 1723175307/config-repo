@@ -21,7 +21,7 @@ server:
 env: test
 
 girl:
-  name: lili
+  name: baby
   age: 22
 
     # 可根据自己的需要修改轮询策略
