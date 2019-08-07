@@ -15,6 +15,9 @@ spring:
         service-id: config  # config-server 服务名称
       profile: dev
 
+server:
+  port: 8082
+
 env: test
 
 girl:
